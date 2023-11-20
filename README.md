@@ -37,7 +37,8 @@ Ensure you have the following installed:
 
 5. Run the data extraction script:
     ```bash
-    python extract_data.py
+    python voyalla.py
+    
     ```
 
 6. The extracted data will be stored in NumPy arrays or Pandas DataFrames based on your script configuration.
@@ -49,8 +50,8 @@ Ensure you have the following installed:
 
 ## Examples
 
-- Use `extract_data.py` to extract tabular data from a website and store it in a Pandas DataFrame.
-- Utilize `data_analysis.py` to perform various data manipulations, calculations, or analyses on the extracted data.
+- Use `voyalla.py` to extract tabular data from a website and store it in a Pandas DataFrame.
+- Utilize `cleaning.py` to perform various data manipulations, calculations, or analyses on the extracted data.
 
 ## Contributing
 
